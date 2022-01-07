@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header {
+    height: 90px;
+    background-color: rgb(230, 216, 153);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
